@@ -18,6 +18,13 @@ pnpm dev
 
 Open http://localhost:3000 to view the site.
 
+## Build
+
+```bash
+pnpm build
+pnpm start
+```
+
 ## Customize Content
 
 Edit the data file to change project names, services, and contact info:
